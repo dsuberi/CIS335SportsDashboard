@@ -1,0 +1,25 @@
+9.8.2022 Meeting Notes
+
+Why do we want to do Sports Dashboard:
+	- We like sports
+	- Want to support our school's sports teams
+	- As students, we want to be in the know of our team's performances.
+
+What we want to build:
+	- Yahoo sports app for Messiah
+	- How we can differentiate this from Go Messiah?
+		- Streamline UX
+	- Website (from falcon link) that one would navigate to
+	- Ideally would want website to display both live and historical scores
+	- Ideally would want website to be filterable by team 
+	- Ideally would want website to filer home/away games (location)
+	- Ideally would iteratively build website one sport at a time
+
+Roles:
+	Noelle: Math
+	Tim:	Cybersecurity
+	Ryan: Cybersecurity
+	Corum: Cybersecurity
+	Ricky: Computer Science
+	Aaron: Economics
+
